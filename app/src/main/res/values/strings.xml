@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DraggableVideo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment">fragment</string>
+    <string name="hls">https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CqoEfyEYtuxBR3MKLDo0roGgMSm2BJ4Ghwvhz5nsG3oeomGf3CjWorc0aNQ8SD1kivXuK2RtpUcMSNkewd30O-ZRHa-ofa736YWlLvoJzBv1wdHR4sy04dcS39g_02GLnSJJa0rv13idYAs0ZVaGee3Vu8fQ8k_l2B9EqIvm8epHdE2yP-t4-WsZEOzIAl_jlcU2-FkDtZDJqHdzPbag3k8HwBV0d45IVWSEP7RDKyKd-suSOjsnxTi6HK8uZ6wfN7rYGX0aJbM-8yk-IbYRJddz2TCw2oJ0xhvvv4lDO08qIgZYVkCmWmWQYhqLSmvFvuMJkwMw_Pt3gqQPt66V_r4WlFGFHsZDIofTIg7QoequR_Sl0mm324Xjw74-XKUI1zzncNgPQsFCEe2NgHazkrS2c76cDtVdEaV25nk0gpV_YvBjUE6UKCB1-tgByJBNQd2MwS55ZjG9gYU7uAFR-BuwE8oByP-IFDmx11ffI6ZEveIJP2N9ooz59ajgZRlKJV9Kxp_R0jIjIfxwLZR6SCauW100dOxN5MWQlgkntPzr0VMng5HjDD7MA1YoFOu9iqCF62G4fQbNM1TR-3MbfUTt7tKdZyQ07kRFpqqO8eG0nQChdhZFnT4f0ioY48xeNNPrq-uak9_QyQlWPgTHMWTW_rU1aqx76JVDSc2N8i1vjViSSlMxudQt-jKHmk4eSCCB1ySnvtBwD4CE1JV0oYjKEjVc4DrOIelZoEASEG2NXPJ0bryP75L3vnKCsaQaDGDJ4H2P2dn9Kjln2Q.m3u8</string>
+</resources>
